@@ -1,18 +1,11 @@
 # Hi, I'm Jair Tarrillo 👋
 
-Economics student focused on data analysis, automation, and technology-driven projects.
+Economics student focused on data analysis, automation, and technology-driven solutions.
 
 ## 📊 About me
-- Economics student interested in macroeconomics, microeconomics, and financial markets
-- Building projects with Python, data analysis, and automation
-- Focused on economic data, APIs, dashboards, and intelligent systems
-
-## 🚀 Currently learning
-- Python for data analysis
-- SQL
-- Power BI
-- Automation (n8n)
-- Economic modeling
+- Background in economics with a strong interest in data and problem solving
+- Building projects that combine economic thinking with technology
+- Focused on creating analytical and automated solutions using real-world data
 
 ## 🛠 Tech Stack
 - Python
@@ -23,6 +16,11 @@ Economics student focused on data analysis, automation, and technology-driven pr
 - Power BI
 - n8n
 - HTML / CSS / JavaScript
+
+## 🚀 Projects
+- Economic data analysis
+- Automation systems
+- Data-driven applications
 
 ## 📫 Contact
 - Email: jair.tarrillo.economics-dev@gmail.com
