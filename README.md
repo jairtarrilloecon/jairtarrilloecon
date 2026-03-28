@@ -53,7 +53,7 @@ Estudiante de economía enfocado en construir soluciones basadas en datos y auto
 
 # 🇺🇸 English
 
-## 👋 Hi, I'm Jair Tarrillo
+## 👋 Hi, I'm Jair Tarrillo Luján
 
 Economics student building data-driven and automation-based solutions.
 
