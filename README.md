@@ -23,4 +23,4 @@ Economics student focused on data analysis, automation, and technology-driven so
 - Data-driven applications
 
 ## 📫 Contact
-- Email: jair.tarrillo.economics-dev@gmail.com
+- Email: jair.tarrillo.econ@gmail.com
