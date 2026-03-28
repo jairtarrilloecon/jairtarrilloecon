@@ -1,5 +1,5 @@
 🌐 Language / Idioma:  
-[🇪🇸 Español](#-español) | [🇺🇸 English](#-english)
+[🇪🇸 Español](#español) | [🇺🇸 English](#english)
 
 ---
 
