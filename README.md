@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jair Tarrillo 👋
 
-<!--
-**jairtarrilloecon/jairtarrilloecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics student focused on data analysis, automation, and technology-driven projects.
 
-Here are some ideas to get you started:
+## 📊 About me
+- Economics student interested in macroeconomics, microeconomics, and financial markets
+- Building projects with Python, data analysis, and automation
+- Focused on economic data, APIs, dashboards, and intelligent systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently learning
+- Python for data analysis
+- SQL
+- Power BI
+- Automation (n8n)
+- Economic modeling
+
+## 🛠 Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- SQL
+- Power BI
+- n8n
+- HTML / CSS / JavaScript
+
+## 📫 Contact
+- Email: jair.tarrillo.economics-dev@gmail.com
