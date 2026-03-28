@@ -1,22 +1,22 @@
-# 👋 Jair Tarrillo
+# Jair Tarrillo
 
 🌐 Language / Idioma:  
 [🇪🇸 Español](#-español) | [🇺🇸 English](#-english)
 
 ---
 
-# 🇪🇸 Español
+# Español
 
-## 👋 Hola, soy Jair Tarrillo
+## Hola, soy Jair Tarrillo
 
 Estudiante de economía enfocado en construir soluciones basadas en datos y automatización.
 
-## 📊 Sobre mí
+## Sobre mí
 - Background en economía con enfoque en problemas reales  
 - Desarrollo proyectos que combinan análisis económico con tecnología  
 - Interesado en construir sistemas, no solo análisis aislados  
 
-## 🛠 Tecnologías
+## Tecnologías 🛠
 - Python  
 - Pandas  
 - NumPy  
@@ -26,7 +26,7 @@ Estudiante de economía enfocado en construir soluciones basadas en datos y auto
 - n8n  
 - HTML / CSS / JavaScript  
 
-## 🚀 Ruta de aprendizaje
+## Ruta de aprendizaje 🚀 
 
 ### 🟢 Nivel 1 — Fundamentos
 - ✅ Análisis de inflación en Perú  
