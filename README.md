@@ -1,9 +1,11 @@
+# Jair Tarrillo 👋
+
 🌐 Language / Idioma:  
 [🇪🇸 Español](#español) | [🇺🇸 English](#english)
 
 ---
 
-# Español 🇪🇸
+# Español
 
 ## Hola, soy Jair Tarrillo
 
@@ -51,7 +53,7 @@ Estudiante de economía enfocado en construir soluciones basadas en datos y auto
 
 ---
 
-# English 🇺🇸
+# English
 
 ## Hi, I'm Jair Tarrillo
 
