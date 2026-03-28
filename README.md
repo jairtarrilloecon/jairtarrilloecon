@@ -1,5 +1,3 @@
-# Jair Tarrillo
-
 🌐 Language / Idioma:  
 [🇪🇸 Español](#-español) | [🇺🇸 English](#-english)
 
@@ -7,7 +5,7 @@
 
 # Español
 
-## Hola, soy Jair Tarrillo
+## Hola, soy Jair Tarrillo Luján
 
 Estudiante de economía enfocado en construir soluciones basadas en datos y automatización.
 
